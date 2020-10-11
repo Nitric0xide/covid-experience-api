@@ -31,7 +31,7 @@ output application/json
     "deaths statistic": "grows",
     "reported statistic": "decreasing",
     "active cases statistic": "same",
-    "recovered statistic": "grows"
+    "recovered": "grows"
   }
 }]]></ee:set-payload>
 			</ee:message>
